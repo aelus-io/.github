@@ -1,4 +1,4 @@
-# Aelus
+# Aelus | Enterprise AI Automation Agency
 
 <img width="1584" height="396" alt="LinkedIn cover - 4 (1)" src="https://github.com/user-attachments/assets/781a456f-d6fb-463d-b5a7-95db8986df28" />
 
